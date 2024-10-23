@@ -17,7 +17,7 @@ import view.SignupView;
 import view.ViewManager;
 
 /**
- * The version Main with an external database used to persist user data.
+ * The version  Main with an external database used to persist user data.
  */
 public class MainWithInMemory {
 
